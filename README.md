@@ -4,7 +4,7 @@ This repo contains a list of projects using AdonisJs in wild. It will great to h
 
 ## How do I share?
 
-Simply fork this repo, update the **ReadMe.md** file and you are done!
+Simply fork this repo, update the **ReadMe.md** file and **create a PR** for same
 
 ## Projects
 
