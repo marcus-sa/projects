@@ -26,9 +26,7 @@ Simply fork this repo, update the **ReadMe.md** file and **create a PR** for sam
         </td>
     </tr>
     <tr>
-        <td>
-            <img src="#" width="70px" />
-        </td>
+        <td width="70px"></td>
         <td>
             <h3>Adonis Support Ticket</h3>
             <p>Shared By Chimezie Enyinnaya <a href="https://github.com/ammezie/adonis-support-ticket">https://github.com/ammezie/adonis-support-ticket</a> a support ticket application built with AdonisJs</p>
