@@ -25,4 +25,13 @@ Simply fork this repo, update the **ReadMe.md** file and **create a PR** for sam
             <p> Shared By Romain Lanz <a href="https://www.lausanne-esports.ch/">https://www.lausanne-esports.ch/</a> uses AdonisJs </p>
         </td>
     </tr>
+    <tr>
+        <td>
+            <img src="https://adonis-china.org/logo-china.png" width="70px" />
+        </td>
+        <td>
+            <h3> Adonis China </h3>
+            <p> AdonisJs BBS and Documentions in China <a href="https://adonis-china.org/">https://adonis-china.org/</a> uses AdonisJs + Semantic UI </p>
+        </td>
+    </tr>
 </table>
