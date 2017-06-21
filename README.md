@@ -41,4 +41,12 @@ Simply fork this repo, update the **ReadMe.md** file and **create a PR** for sam
             <p> AdonisJs BBS and Documentions in China <a href="https://adonis-china.org/">https://adonis-china.org/</a> uses AdonisJs + Semantic UI </p>
         </td>
     </tr>
+    <tr>
+        <td width="70px"></td>
+        <td>
+            <h3> Adonis AWS web identity federation login </h3>
+            <p> Shared By Ankush Goswami <a href="https://aws.paytm.com/">https://aws.paytm.com/</a>In our company(Paytm Ecommerce) we have used Adonis to build IAM login for internal users using AWS Web Identity. This project is handling around 1000 concurrent users on daily basis </p>
+        </td>
+    </tr>
+
 </table>
