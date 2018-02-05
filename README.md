@@ -48,5 +48,12 @@ Simply fork this repo, update the **ReadMe.md** file and **create a PR** for sam
             <p> Shared By Ankush Goswami <a href="https://aws.paytm.com/">https://aws.paytm.com/</a>In our company(Paytm Ecommerce) we have used Adonis to build IAM login for internal users using AWS Web Identity. This project is handling around 1000 concurrent users on daily basis </p>
         </td>
     </tr>
+    <tr>
+        <td width="70px"></td>
+        <td>
+            <h3> Adonis Feathers Providers </h3>
+            <p> [Feathers](https://feathersjs.com) integrated into Adonis as providers<br /> Repo found at: https://github.com/marcus-sa/backwood</p>
+        </td>
+    </tr>
 
 </table>
